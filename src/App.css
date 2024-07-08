@@ -1,0 +1,9 @@
+.container {
+    max-width: auto; /* Ensure the container doesn't exceed its parent's width */
+    text-align: center; /* Center the image horizontally */
+}
+
+img {
+    max-width: 100%; /* Ensure the image doesn't exceed its natural size */
+    max-height: auto; /* Maintain aspect ratio */
+}
